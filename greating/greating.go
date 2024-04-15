@@ -1,5 +1,5 @@
 package greating
 
 func Greet() string{
-	return "Hello world"
+	return "Hello world.Salom"
 }
