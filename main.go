@@ -8,4 +8,5 @@ import (
 
 func main(){
 	fmt.Println(greating.Greet())
+	fmt.Println("Mening ismim Ozodbek.")
 }
